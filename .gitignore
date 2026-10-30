@@ -1,0 +1,7 @@
+out/
+figures/
+jobs/
+logs/
+results/
+data/*.txt
+__pycache__/
